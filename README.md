@@ -1,2 +1,2 @@
 # nvim
-# first install `vim-plug`
+first install `vim-plug`
